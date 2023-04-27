@@ -28,8 +28,8 @@ const variables = {
   'torrent-queued': '#144a96',
   'torrent-seeding': '#0098b0',
   'torrent-checking': '#144a96',
-  'torrent-stalled': '#7a3894',
-  'torrent-metadata': '#7a3894',
+  'torrent-stalled': '#7e57c2',
+  'torrent-metadata': '#7e57c2',
   'torrent-moving': '#144a96'
 }
 
