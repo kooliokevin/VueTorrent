@@ -21,16 +21,16 @@ const variables = {
   upload: '#00b3fa',
   ratio: '#00b2f8',
   // Torrent status colors
-  'torrent-done': '#16573e',
+  'torrent-done': '#29488a',
   'torrent-downloading': '#5bb974',
-  'torrent-fail': '#f83e70',
+  'torrent-fail': '#c23636',
   'torrent-paused': '#9CA3AF',
-  'torrent-queued': '#2e5eaa',
-  'torrent-seeding': '#4ecde6',
-  'torrent-checking': '#ff7043',
-  'torrent-stalled': '#4ADE80',
+  'torrent-queued': '#144a96',
+  'torrent-seeding': '#0098b0',
+  'torrent-checking': '#144a96',
+  'torrent-stalled': '#7e57c2',
   'torrent-metadata': '#7e57c2',
-  'torrent-moving': '#ffaa2c'
+  'torrent-moving': '#144a96'
 }
 
 export default new Vuetify({
